@@ -19,6 +19,7 @@ public class Programa02 {
         d=sb*0.13;
         sn=sb-d;
         
+        System.out.println("El nombre del usuario es: "+empleado);
         System.out.println("El sueldo bruto es: "+sb);
         System.out.println("El descuento es: "+d);
         System.out.println("El sueldo neto es: "+sn);
